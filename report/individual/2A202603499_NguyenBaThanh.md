@@ -16,7 +16,7 @@
 
 ## 2. Kết quả chính
 
-                                 precision  recall  F1 (test)  F1 (SUB 40)  \
+                                 precision  recall  F1 (test)  F1 (SUB 40)  
 1. BoW + LogReg (tự code)            1.000   0.796      0.886        0.889   
 2. BoW + MLP (deep learning)         0.988   0.914      0.950        0.947   
 3a. Encoder (MiniLM) + kNN           0.832   0.957      0.890        1.000   
